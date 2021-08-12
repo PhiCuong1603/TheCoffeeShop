@@ -1,0 +1,12 @@
+body {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  line-height: 0;
+}
+body,
+.login,
+.signup,
+.notfound-page {
+  line-height: 0;
+  height: 100vh;
+}

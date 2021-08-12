@@ -1,0 +1,102 @@
+.sproduct-form {
+  width: 100%;
+  height: auto;
+  padding-top: 50px;
+}
+.sproduct-form img {
+  width: 80%;
+  height: auto;
+}
+.sproduct-form .title {
+  text-align: start;
+  width: 45%;
+  color: black;
+  font-size: 40px;
+  font-family: "Bangers", cursive;
+  border-bottom: 4px solid rgb(185, 115, 67);
+}
+.sproduct-form .price {
+  padding-bottom: 30px;
+  color: rgb(185, 115, 67);
+  text-align: start;
+  font-size: 30px;
+  font-family: "Concert One", cursive;
+}
+
+.amount {
+  width: 100%;
+  text-align: start;
+  color: rgb(185, 115, 67);
+  font-size: 25px;
+  font-family: "Lobster", cursive;
+  padding-bottom: 40px;
+}
+
+.sproduct-form .button-form {
+  width: 100%;
+  text-align: start;
+}
+.sproduct-form .button-form .button-buy {
+  width: 45%;
+  height: 50px;
+  font-family: "Concert One", cursive;
+  font-size: 25px;
+  color: rgb(185, 115, 67);
+  background: linear-gradient(to left, white 50%, rgb(164, 115, 67) 50%) right;
+  border: 2px solid rgb(185, 115, 67);
+  transition: 0.5s ease-out;
+  background-size: 200%;
+}
+.sproduct-form .button-form .button-buy:hover {
+  border: 2px solid rgb(164, 115, 67);
+  color: white;
+
+  background-position: left;
+}
+.sproduct-form .description-form {
+  text-align: start;
+  font-size: 25px;
+  font-family: "Lobster", cursive;
+  padding-bottom: 50px;
+}
+.sproduct-form .description-form .title {
+  font-size: 25px;
+  color: rgb(185, 115, 67);
+  border: none;
+  font-family: "Lobster", cursive;
+}
+.sproduct-form .description-form .content {
+  font-size: 20px;
+  font-family: "Lobster", cursive;
+  color: #423f3f;
+}
+.tabs-rating {
+  padding-top: 100px;
+  width: 100%;
+  height: auto;
+  min-height: 600px;
+}
+.tabs-rating .pagination-form {
+  padding-left: 20px;
+  text-align: start;
+}
+.tabs-rating .rate-container {
+  width: 100%;
+  height: auto;
+  padding-bottom: 50px;
+}
+.tabs-rating .rate-form {
+  padding: 20px 0px 0px 20px;
+  width: 100%;
+  height: auto;
+  text-align: start;
+}
+.rate-form .rate-username {
+  font-size: 15px;
+  font-weight: bold;
+}
+.rate-form .rate-start {
+}
+.rate-form .rate-comment {
+  padding-top: 5px;
+}
