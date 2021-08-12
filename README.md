@@ -1,5 +1,5 @@
 # Coffee_Shop
-Phan Đăng Trung (Front-end) - Đỗ Phi Cường(Back-end)
+Phan Đăng Trung (Front-end, ReacJs) - Đỗ Phi Cường(Back-end, NodeJs)
 
 ![screencapture-localhost-3000-2021-06-22-16_52_58](https://user-images.githubusercontent.com/66070163/128586427-dd8d1557-cda0-4bb7-9c02-f5dc77a4ecbe.png)
 
